@@ -21,6 +21,13 @@ First things first, we need to *Install and launch HashiCorp Vault*
 > In this technical example we will be installing on a windows machine, please check the link and download the compatible HashiCorp Vault version for your OS .
 
  [https://www.vaultproject.io/downloads](https://www.vaultproject.io/downloads)
+ 
+ ### Vault Web UI
+ http://127.0.0.1:8200/ui/
+ 
+ You can explore the vault web ui
+ 
+ 
 
 ### Start Vault:
 Unzip the rar file and execute the vault.exe
