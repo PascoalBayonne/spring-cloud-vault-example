@@ -22,6 +22,8 @@ First things first, we need to *Install and launch HashiCorp Vault*
 
  [https://www.vaultproject.io/downloads](https://www.vaultproject.io/downloads)
  
+### Vault Web UI
+http://127.0.0.1:8200/ui/
  ### Vault Web UI
  http://127.0.0.1:8200/ui/
  
